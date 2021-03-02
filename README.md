@@ -3,9 +3,9 @@
 I am a consultant and software developer with a passion for web technologies.
 
 #### You want to know more? Get in touch with me!
-- 🏡 https://christianklein.dev
-- 🐦 <a href="https://twitter.com/chrstn_kl">@chrstn_kl</a>
-- 📫 mail@christianklein.dev
+- :house_with_garden: https://christianklein.dev
+- :bird: <a href="https://twitter.com/chrstn_kl">@chrstn_kl</a>
+- :mailbox: mail@christianklein.dev
 
 
 <!--
