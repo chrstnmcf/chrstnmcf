@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hej there, I'm Christian! 👋
+
+I am a consultant and software developer with a passion for web technologies.
+
+#### You want to know more? Get in touch with me!
+- 🏡 https://christianklein.dev
+- 🐦 <a href="https://twitter.com/chrstn_kl">@chrstn_kl</a>
+- 📫 mail@christianklein.dev
+
 
 <!--
 **chrstnkl/chrstnkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
