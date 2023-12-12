@@ -3,8 +3,6 @@
 I am a consultant and software developer with a passion for web technologies.
 
 #### You want to know more? Get in touch with me!
-- :house_with_garden: https://christianklein.dev
-- :mailbox: mail@christianklein.dev
 
 
 <!--
